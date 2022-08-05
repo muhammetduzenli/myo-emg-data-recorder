@@ -12,5 +12,5 @@ A GUI for recording EMG and IMU data signals from MYO Armband.
 ![myo-emg-data-recorder-gui-photo](https://user-images.githubusercontent.com/73781096/182028260-c88b4a4b-50e8-44c7-ae52-13128708a11c.png)
 
 * The program comes with the default EMG recorder feature
-  * To enable IMU recording features just check the "Acceleration", "Gyroscope" and Orientation boxes.
+  * To enable IMU recording features just check the "Acceleration", "Gyroscope" and "Orientation" boxes.
 * The slider can be used to record the data for a given amount of time
